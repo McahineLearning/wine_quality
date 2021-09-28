@@ -3,4 +3,5 @@ wincertstore==0.2
 dvc
 dvc[gdrive]
 sklearn
+pandas
 
